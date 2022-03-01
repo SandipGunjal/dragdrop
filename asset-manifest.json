@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dragdrop/static/css/main.e597f2c0.css",
+    "main.js": "/dragdrop/static/js/main.3f661ff4.js",
+    "static/js/787.e3cd59a6.chunk.js": "/dragdrop/static/js/787.e3cd59a6.chunk.js",
+    "index.html": "/dragdrop/index.html",
+    "main.e597f2c0.css.map": "/dragdrop/static/css/main.e597f2c0.css.map",
+    "main.3f661ff4.js.map": "/dragdrop/static/js/main.3f661ff4.js.map",
+    "787.e3cd59a6.chunk.js.map": "/dragdrop/static/js/787.e3cd59a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e597f2c0.css",
+    "static/js/main.3f661ff4.js"
+  ]
+}
